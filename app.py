@@ -1,7 +1,7 @@
 import json
 
 import streamlit as st
-import commands_v6 as cmd
+import commands_v7 as cmd
 import pandas as pd
 import base64
 
